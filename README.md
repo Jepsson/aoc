@@ -1,2 +1,2 @@
 # aoc
-Advent of code
+Solving [Advent of Code](http://adventofcode.com) puzzles...
