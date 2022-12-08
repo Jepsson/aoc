@@ -4,10 +4,8 @@ import os
 def trees_in_line(proposal, line):
     trees = 0
     for tree in line:
-        if tree < proposal:
-            trees += 1
-        else:
-            trees += 1
+        trees += 1
+        if tree >= proposal:
             break
     return trees
 
